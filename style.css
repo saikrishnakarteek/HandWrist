@@ -1,0 +1,26 @@
+.copyRightFooter{
+
+    position: fixed;
+    width: 100%;
+    background-color: aqua;
+    text-align: center;
+    color: white;
+    line-height: 3;
+    bottom: 0;
+
+}
+
+.note {
+    font-size: 15px;
+    color: red;
+
+}
+
+.Class1 {
+ 
+    font-size: 20px;
+    width: 100%;
+    box-shadow: 10px 10px 10px lime;
+    margin: 0px;
+    
+}
